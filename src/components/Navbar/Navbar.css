@@ -1,0 +1,28 @@
+.navbar{
+    display: flex;
+    align-items: center;
+    background-color: gray;
+    justify-content: space-between;
+}
+
+.navbar-logo img{
+    width: 80%;
+}
+
+.navbar-links ul{
+    display: flex;
+    gap: 2rem;
+    margin: 0 1rem;
+    align-items: center;    
+}
+.navbar-links ul li{
+    list-style-type: none;
+    font-weight: 500;
+    color: white;
+}
+
+.navbar-links ul li:last-child{
+    padding: 1rem;
+    background-color: lightblue;
+    border-radius: 1.5rem;
+}
