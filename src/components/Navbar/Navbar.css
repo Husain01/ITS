@@ -23,6 +23,6 @@
 
 .navbar-links ul li:last-child{
     padding: 1rem;
-    background-color: lightblue;
+    background-color: darkslategray;
     border-radius: 1.5rem;
 }
