@@ -1,7 +1,7 @@
 .navbar{
     display: flex;
     align-items: center;
-    background-color: gray;
+    background-color: #141414;
     justify-content: space-between;
 }
 
@@ -23,6 +23,6 @@
 
 .navbar-links ul li:last-child{
     padding: 1rem;
-    background-color: darkslategray;
+    background-color: #0f70bd;
     border-radius: 1.5rem;
 }
