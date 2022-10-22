@@ -1,7 +1,7 @@
 .navbar{
     display: flex;
     align-items: center;
-    background-color: #141414;
+    background-color: white;
     justify-content: space-between;
     height: 5rem;
     position: sticky;
@@ -21,11 +21,13 @@
 .navbar-links ul li{
     list-style-type: none;
     font-weight: 500;
-    color: white;
+    color: #141414;
+    cursor: pointer;
 }
 
 .navbar-links ul li:last-child{
     padding: 1rem;
     background-color: #0f70bd;
     border-radius: 1.5rem;
+    color: white;
 }
